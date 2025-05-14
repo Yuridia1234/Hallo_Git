@@ -11,6 +11,13 @@ Underline 1
  -----------
  -----------
 
+- formato *talica* de la primera forma.
+- formato _italica_ de la segunda forma.
+- formatio **bold o strong** de la primera forma.
+- formato __bold o strong__ de la segunda forma.
+- formato ~~tachado~~, forma norlmal.
+- aqui podemos usar *formato italico*, pero tambien **bold** y ~~tachado~~.
+
 
 
 
