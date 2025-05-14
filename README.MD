@@ -18,6 +18,15 @@ Underline 1
 - formato ~~tachado~~, forma norlmal.
 - aqui podemos usar *formato italico*, pero tambien **bold** y ~~tachado~~.
 
+# listas
+1. Esto es un item de lista  ordenada.
+2. Esto es un item de lista  ordenada.
+3. Esto es un item de lista  ordenada.
+- Esto es un item de lista  desordenada.
+- Esto es un item de lista  desordenada.
+- Esto es un item de lista  desordenada.
+
+
 
 
 
