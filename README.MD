@@ -25,12 +25,68 @@ Underline 1
 - Esto es un item de lista  desordenada.
 - Esto es un item de lista  desordenada.
 - Esto es un item de lista  desordenada.
+ 
+ # Links
+- <a href="https://WWW.google.com">Esto es un link HTML</a>
+- [Esto es un link en Markdown](https://www.gogle.com)
+- [Esto es un link al index](index.html)
+
+# Links
+- <a href="https://WWW.google.com">Esto es un link HTML</a>
+- [Esto es un link en Markdown](https://www.gogle.com)
+- [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo de Github ](https://cloud-elements.com/wp-content/uploads/2019/01/github-logo-6004.jpg)
+
+# code snippetes
+Codigo en JSON
+JSON
+[
+    {
+        "title": "apples",
+        "count": [12000, 2000],
+        "description":{"text": "...", "sensitive": false}
+    }
+    {
+        "title": "oranges",
+        "count": [17500, null],
+        "description":{"text": "...", "sensitive": false}
+    }
+
+]
 
 
 
+# Tablas
+| Nombre | Apellido | Documenco|
+| -------| ---------|----------|
+| Maxi | Burgos | 3546481 |
+| Tomas | Tompson | 3243243 |
 
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
 
-  
+Esto es otro texto que no se relaciona con la cita anterior:
+> Esto es otra cita.
 
+# Lineas Divisoras
+Esto es un texto que sera dividido por signos medios
 
+---
+Esto es otro texto dividido por asteriscos.
 
+***
+
+Esto es otro texto dividido por guiones bajos
+
+___
+
+# Saltos de linea
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo
+ parrafo.
+
+Esto es nuestro Tercer parrafo.
